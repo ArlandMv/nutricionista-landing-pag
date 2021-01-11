@@ -1,0 +1,14 @@
+//@import './variables';
+//@import './header';
+//@import './footer';
+
+$primaryColor: rgb(182, 85, 153);
+$secundaryColor: rgb(182, 85, 150);
+
+.light-bg {
+	background-color: $primaryColor;
+}
+
+.dark-bg {
+	background-color: $secundaryColor;
+}
